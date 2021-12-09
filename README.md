@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## IMAGES
 
-for more reference and images refer 201900325_samyak_mehta.pdf file
+for more reference and images refer 201900138_harshita_mehrotra.pdf file
